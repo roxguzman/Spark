@@ -1,9 +1,4 @@
 Sparkify project
-Table of Contents
-Installation
-Project Motivation
-Files Description
-Result
 
 Installation
 This project uses the following software and Python libraries:
